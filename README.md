@@ -15,8 +15,8 @@ I'm an aspiring **Data Scientist and Analyst** passionate about finding the stor
 **Tools:** Git, Jupyter, VS Code,  MySQL
 
 ### 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=leonard-simon&show_icons=true&theme=radical)](https://github.com/leonard-simon)
 
 ### 📝 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Customer-Churn-Analysis)](https://github.com/yourusername/Customer-Churn-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Video-Game-Sales-Analysis)](https://github.com/yourusername/Video-Game-Sales-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonard-simon&repo=Customer-Churn-Analysis)](https://github.com/leonard-simon/Customer-Churn-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonard-simon&repo=Video-Game-Sales-Analysis)](https://github.com/leonard-simon/Video-Game-Sales-Analysis)
