@@ -4,7 +4,7 @@ I'm an aspiring **Data Scientist and Analyst** passionate about finding the stor
 - 🔭 I’m currently working on: Building a recommendation system using collaborative filtering.
 - 👯 I’m looking to collaborate on: Open-source data science projects or interesting data analysis.
 - 💬 Ask me about: **Python, SQL, VBA EXCEL**, or the best way to clean a messy CSV!
-- 📫 How to reach me: [leonirecho@gmail.com] | [https://www.linkedin.com/in/ogenrwot-leonard-510916383] | [https://LEONARD SIMON.netlify.app/ ]
+- 📫 How to reach me: [leonirecho@gmail.com] | [https://www.linkedin.com/in/ogenrwot-leonard-510916383] | [https://leonardsimon.netlify.app/ ]
 
 
 ### 🛠️ Tech Stack
